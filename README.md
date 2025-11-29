@@ -4,10 +4,6 @@
 # 🦈 GlassScripts 🦈
 GlassScripts is a repository of Javascripts that are compatible within Jellyfin using the JavaScript Injector by [n00bcodr](https://github.com/n00bcodr). <br>
 
-<div align="center" style="display: flex; gap: 5px; justify-content: center;">
-  <a href="https://github.com/KBH-Reeper/GlassFin/releases/latest"><img src="https://img.shields.io/github/v/release/KBH-Reeper/GlassFin?label=Latest%20Release%20of%20GlassFin&labelColor=555555&style=for-the-badge" alt="Latest Release"></a>
-  <a href="https://github.com/KBH-Reeper/GlassFin/stargazers"><img src="https://img.shields.io/github/stars/KBH-Reeper/GlassFin?label=%E2%AD%90%20%E2%AD%90%20%E2%AD%90&labelColor=555555&style=for-the-badge" alt="GitHub Stars"></a>
-  
 </div>
 
 #### **JavaScript Injector Required:**
@@ -16,15 +12,15 @@ GlassScripts is a repository of Javascripts that are compatible within Jellyfin 
   
 ### 👌 Optimised for:
 <img src="https://img.shields.io/badge/Jellyfin%20Version-10.11.x-AA5CC3?logo=jellyfin&logoColor=00A4DC&labelColor=black" alt="Jellyfin Version">
-<a href="https://github.com/KBH-Reeper/GlassFin"><img src="https://img.shields.io/badge/GitHub-KBH%20REEPER%20GlassFin-00A4DC?logo=GitHub&logoColor=00A4DC&labelColor=black" alt="GlassFin"></a>
-
+<a href="https://github.com/KBH-Reeper/GlassFin/releases/latest"><img src="https://img.shields.io/github/v/release/KBH-Reeper/GlassFin?label=Latest%20Release%20of%20GlassFin&labelColor=555555&style=for-the-badge" alt="Latest Release"></a>
 
 <hr>
 
 ### 🎁 Script Library
 - Change genre seperators from square to dots |  <a href="https://cdn.jsdelivr.net/gh/KBH-Reeper/GlassScripts@main/Scripts/GenreSeperator.js
 "><img src="https://img.shields.io/badge/COPY%20SCRIPT%20FROM%20HERE-Genre%20Seperator-00A4DC?logo=jsdelivr&logoColor=00A4DC&labelColor=black" alt="Genre Seperator">
-- Condense TV Series episodes when in list view and click to expand
+- Condense TV Series episodes when in list view and click to expand |  <a href="https://cdn.jsdelivr.net/gh/KBH-Reeper/GlassScripts@main/Scripts/ClickExpandTVEpisodeWriteUp.js
+"><img src="https://img.shields.io/badge/COPY%20SCRIPT%20FROM%20HERE-Click%20Expand%20TV%20Episode%20Write%20Up-00A4DC?logo=jsdelivr&logoColor=00A4DC&labelColor=black" alt="Click Expand TV Episode Write Up">
 
 <hr>
 
