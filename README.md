@@ -61,6 +61,7 @@ Performed in JellyFin V10.11.3
 |--------|-------|
 | <img src="https://github.com/user-attachments/assets/25c4dc24-5b2c-4ee5-96b3-2eab46f901aa" width="390"> | <img src="https://github.com/user-attachments/assets/e43d0af9-0bd7-441f-bee3-33c4ae352287" width="390"> |
 </details>
+<hr>
 
 ### 𝍌 How to apply the GlassScripts to your JellyFin? 
 
